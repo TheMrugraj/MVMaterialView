@@ -7,3 +7,5 @@ Subclass of UIControls and UIButton to mimic Ripple effect of Material Design co
  - Add Background color to View.
  - Set tint color of View to show ripple of that color.
 
+
+![Animated Demo](https://www.dropbox.com/s/zesi91gc0dadwc6/MaterialViewDemo.gif?dl=1)
