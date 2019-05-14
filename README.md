@@ -9,3 +9,6 @@ Subclass of UIControls and UIButton to mimic Ripple effect of Material Design co
 
 
 ![Animated Demo](https://www.dropbox.com/s/zesi91gc0dadwc6/MaterialViewDemo.gif?dl=1)
+
+
+Apache License 2.0
